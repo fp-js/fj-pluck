@@ -15,4 +15,6 @@ var nums = [1, 2, 3];
 it("fj-pluck", function () {
   assert.equal(pluck("name")(obj), "fj-js");
   assert.equal(pluck("length")(nums), 3);
+  assert.equal(pluck("name", obj), "fj-js");
+  assert.equal(pluck("length", nums), 3);
 });

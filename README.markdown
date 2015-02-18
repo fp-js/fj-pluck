@@ -18,4 +18,6 @@ const obj = {
 }
 
 pluck('name')(obj); // 'fj-js'
+
+pluck('name',obj) // 'fj-js'
 ```

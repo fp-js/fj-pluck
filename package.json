@@ -1,6 +1,6 @@
 {
   "name": "fj-pluck",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Plucks a property from the given object.",
   "main": "index.js",
   "scripts": {

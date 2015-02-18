@@ -6,7 +6,7 @@
 
 ## Installation
 
-`npm install fp-pluck_NAME --save`
+`npm install fp-pluck --save`
 
 ## Usage
 

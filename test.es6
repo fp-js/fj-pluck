@@ -2,12 +2,12 @@ import assert from 'assert';
 import pluck from './';
 
 const obj = {
-  name : 'fp-js'
+  name : 'fj-js'
 }
 
 const nums = [1,2,3];
 
-it('fp-pluck', () => {
-  assert.equal(pluck('name')(obj), 'fp-js');
+it('fj-pluck', () => {
+  assert.equal(pluck('name')(obj), 'fj-js');
   assert.equal(pluck('length')(nums), 3);
 });

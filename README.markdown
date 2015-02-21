@@ -1,6 +1,6 @@
 # fj-pluck
 
-[![Build Status](https://travis-ci.org/fj-js/fj-pluck.svg)](https://travis-ci.org/fj-js/fj-pluck) [![npm version](https://badge.fury.io/js/fj-pluck.svg)](http://badge.fury.io/js/fj-pluck)
+[![Build Status](https://travis-ci.org/fp-js/fj-pluck.svg?branch=master)](https://travis-ci.org/fp-js/fj-pluck) [![npm version](https://badge.fury.io/js/fj-pluck.svg)](http://badge.fury.io/js/fj-pluck)
 
 > Plucks a property from the given object.
 
